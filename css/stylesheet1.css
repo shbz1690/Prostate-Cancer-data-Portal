@@ -1,0 +1,29 @@
+table {
+    margin: 30px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    border-collapse: collapse;
+	width:770px;
+}
+
+table.table1 th, td { border: 1px solid black; }
+table.table1 th {background-color: #6633CC; padding: 6px 3px;}
+table.table1 td { padding: 5px 3px; font-size:15px; }
+ 
+
+
+/*alternate column color 
+The following rules give the first column a yellow background, and then every other column starting from column 3 a gray one:
+*/
+
+
+
+
+tbody td {
+	text-align: center;
+	font-size: 75%;
+	} 
+	
